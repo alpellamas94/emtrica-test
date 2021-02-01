@@ -1,0 +1,53 @@
+.sub-tabs-content{width:auto;margin-top:0;background-color:#fff;overflow:auto;border-top:1px solid #e2e2e2}.sub-tabs-content:after{right:0;content:"";display:block;height:48px;width:16px;float:right;position:absolute;margin-top:-68px;border-top:4px solid #fff;background:-moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, white 100%);background:-webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, white 100%);background:linear-gradient(to right, rgba(255, 255, 255, 0) 0%, white 100%)}.sub-tabs-content .sub-tab-list{display:flex;-webkit-box-shadow:0 3px 5px 0 rgba(0, 0, 0, 0.2);-moz-box-shadow:0 3px 5px 0 rgba(0, 0, 0, 0.2);box-shadow:0 3px 5px 0 rgba(0, 0, 0, 0.2);height:44px;width:100%}.sub-tabs-content .sub-tab-list:before{content:"";display:block;height:48px;width:16px;float:left;position:absolute;margin-left:-16px;border-top:4px solid #fff;margin-top:-4px;background:-moz-linear-gradient(left, white 0%, rgba(255, 255, 255, 0) 100%);background:-webkit-linear-gradient(left, white 0%, rgba(255, 255, 255, 0) 100%);background:linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);z-index:1}.sub-tabs-content .sub-tab-list
+li{background:#fff;flex-basis:100%;font-family:"Roboto_condensed",Arial,sans-serif,helvetica;margin-right:0;max-width:none;min-width:0;position:relative;text-align:center}.sub-tabs-content .sub-tab-list li
+a{height:44px;color:#85929e;line-height:45px;margin:0
+5px;font-size:14px;vertical-align:middle;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.sub-tabs-content .sub-tab-list li a:hover{text-decoration:none;color:#2e6d9d}.sub-tabs-content .sub-tab-list li a
+i.number{background-color:#c00;border-radius:100%;color:#fff;display:inline-block;float:none;font-size:12px;font-style:normal;font-weight:normal;height:18px;line-height:18px;position:absolute;right:4px;text-align:center;top:12px;vertical-align:middle;width:18px}.sub-tabs-content .sub-tab-list
+li.active{border-bottom:4px solid #2e6d9d}.sub-tabs-content .sub-tab-list li.active
+a{color:#2e6d9d}.sub-tabs-content .sub-tab-list li.active a:hover{text-decoration:none}.sub-tabs-content .sub-tab-list li:nth-child(1){margin-left:0}.sub-tabs-content .sub-tab-list li:nth-child(1):nth-last-child(1){width:100%}.sub-tabs-content .sub-tab-list li:nth-child(1):nth-last-child(2), .sub-tabs-content .sub-tab-list li:nth-child(2):nth-last-child(1){width:50vw}.sub-tabs-content .sub-tab-list li:nth-child(1):nth-last-child(3), .sub-tabs-content .sub-tab-list li:nth-child(2):nth-last-child(2), .sub-tabs-content .sub-tab-list li:nth-child(3):nth-last-child(1){min-width:calc((100%) / 3)}.pag-ronda-previa .sub-tab-list a.tab-ronda-previa,
+.pag-ronda-1 .sub-tab-list a.tab-ronda-1,
+.pag-ronda-2 .sub-tab-list a.tab-ronda-2,
+.pag-ronda-3 .sub-tab-list a.tab-ronda-3,
+.pag-ronda-4 .sub-tab-list a.tab-ronda-4,
+.pag-ronda-5 .sub-tab-list a.tab-ronda-5,
+.pag-ronda-6 .sub-tab-list a.tab-ronda-6,
+.pag-ronda-7 .sub-tab-list a.tab-ronda-7,
+.pag-grupo-a .sub-tab-list a.tab-grupo-a,
+.pag-grupo-b .sub-tab-list a.tab-grupo-b,
+.pag-grupo-c .sub-tab-list a.tab-grupo-c,
+.pag-grupo-d .sub-tab-list a.tab-grupo-d,
+.pag-grupo-e .sub-tab-list a.tab-grupo-e,
+.pag-grupo-f .sub-tab-list a.tab-grupo-f,
+.pag-grupo-g .sub-tab-list a.tab-grupo-g,
+.pag-grupo-h .sub-tab-list a.tab-grupo-h,
+.pag-grupo-i .sub-tab-list a.tab-grupo-i,
+.pag-grupo-j .sub-tab-list a.tab-grupo-j,
+.pag-grupo-k .sub-tab-list a.tab-grupo-k,
+.pag-grupo-l .sub-tab-list a.tab-grupo-l,
+.pag-cuadro .sub-tab-list a.tab-cuadro,
+.pag-32 .sub-tab-list a.tab-32,
+.pag-16 .sub-tab-list a.tab-16,
+.pag-octavos .sub-tab-list a.tab-octavos,
+.pag-cuartos .sub-tab-list a.tab-cuartos,
+.pag-semifinales .sub-tab-list a.tab-semifinales,
+.pag-final .sub-tab-list a.tab-final,
+.pag-pichichi .sub-tab-list a.tab-pichichi,
+.pag-zamora .sub-tab-list a.tab-zamora,
+.cuadro-previa .sub-tab-list a.tab-cuadro-previa,
+.cuadro-final .sub-tab-list a.tab-cuadro-final,
+.pag-conferencia-este .sub-tab-list a.tab-conferencia-este,
+.pag-conferencia-oeste .sub-tab-list a.tab-conferencia-oeste,
+.pag-divisiones .sub-tab-list a.tab-divisiones,
+.pag-moto-gp .sub-tab-list a.tab-moto-gp,
+.pag-moto-2 .sub-tab-list a.tab-moto-2,
+.pag-moto-3 .sub-tab-list a.tab-moto-3,
+.pag-clasificacion-general .sub-tab-list a.tab-clasificacion-general,
+.pag-clasificacion-equipos .sub-tab-list a.tab-clasificacion-equipos,
+.pag-clasificacion-montana .sub-tab-list a.tab-clasificacion-montana,
+.pag-clasificacion-regularidad .sub-tab-list a.tab-clasificacion-regularidad,
+.pag-clasificacion-etapas .sub-tab-list a.tab-clasificacion-etapas{border-bottom:3px solid #2e6d9d;color:#2e6d9d}.main.section .container-include article.mod-item.mod-news{background-color:initial;border-bottom:0}.auto-items .mod-news .mod-author
+li{display:block}.sub-tabs-content{border-top:0}.sub-tabs-content .sub-tab-list li
+a{font-size:16px}.sub-tabs-content .sub-tab-list
+li.active{border-bottom:none}.sub-tabs-content .sub-tab-list li.active
+a{border-bottom:3px solid #2e6d9d;color:#2e6d9d}.lo-mas .entradilla-lo-mas{color:#333;font-size:18px;line-height:23px;margin:10px
+0 20px}.lo-mas-container{counter-reset:content-item}.lo-mas-container .content-item:before{counter-increment:content-item;content:counter(content-item);color:#999;font-family:"Clear Sans Bold",Arial,sans-serif,helvetica;font-size:24px;line-height:20px;width:42px;text-align:left;float:left}.lo-mas-container .mod-news .multimedia-item{width:140px;margin:0}
